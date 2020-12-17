@@ -1,0 +1,15 @@
+C:\Users\sekhar\source\repos\UseCalcService\UseCalcService\UseCalcService\bin\Debug\netstandard2.0\UseCalcService.deps.json
+C:\Users\sekhar\source\repos\UseCalcService\UseCalcService\UseCalcService\bin\Debug\netstandard2.0\UseCalcService.dll
+C:\Users\sekhar\source\repos\UseCalcService\UseCalcService\UseCalcService\obj\Debug\netstandard2.0\UseCalcService.csprojAssemblyReference.cache
+C:\Users\sekhar\source\repos\UseCalcService\UseCalcService\UseCalcService\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\sekhar\source\repos\UseCalcService\UseCalcService\UseCalcService\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\sekhar\source\repos\UseCalcService\UseCalcService\UseCalcService\obj\Debug\netstandard2.0\UseCalcService.AssemblyInfoInputs.cache
+C:\Users\sekhar\source\repos\UseCalcService\UseCalcService\UseCalcService\obj\Debug\netstandard2.0\UseCalcService.AssemblyInfo.cs
+C:\Users\sekhar\source\repos\UseCalcService\UseCalcService\UseCalcService\bin\Debug\netstandard2.0\ref\UseCalcService.dll
+C:\Users\sekhar\source\repos\UseCalcService\UseCalcService\UseCalcService\bin\Debug\netstandard2.0\UseCalcService.pdb
+C:\Users\sekhar\source\repos\UseCalcService\UseCalcService\UseCalcService\obj\Debug\netstandard2.0\CalculatorPage.xaml.g.cs
+C:\Users\sekhar\source\repos\UseCalcService\UseCalcService\UseCalcService\obj\Debug\netstandard2.0\UseCalcService.csproj.CoreCompileInputs.cache
+C:\Users\sekhar\source\repos\UseCalcService\UseCalcService\UseCalcService\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\sekhar\source\repos\UseCalcService\UseCalcService\UseCalcService\obj\Debug\netstandard2.0\UseCalcService.dll
+C:\Users\sekhar\source\repos\UseCalcService\UseCalcService\UseCalcService\obj\Debug\netstandard2.0\ref\UseCalcService.dll
+C:\Users\sekhar\source\repos\UseCalcService\UseCalcService\UseCalcService\obj\Debug\netstandard2.0\UseCalcService.pdb

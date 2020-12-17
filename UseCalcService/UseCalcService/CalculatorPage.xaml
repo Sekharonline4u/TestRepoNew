@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UseCalcService.CalculatorPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry x:Name="No1" Placeholder="Enter Value for No1" />
+            <Entry x:Name="No2" Placeholder="Enter Value for No2" />
+            <Button x:Name="ButtonAdd" Text="Add" Clicked="ButtonAdd_Clicked" />
+            <Label x:Name="LabelResult" FontSize="Title" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
